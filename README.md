@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Sean Yuan and I am currently working on React JavaScript. I have the knowledge of vanilla Javascript and the basic knowledge of Python. My first language back in 2018 was SQL, my second language was Java, my third language was C++, and my fourth language was Python. After those, I started learning JavaScript.
+### Hello, My name is Sean Yuan and I am a Software Engineer with expertise in various programming languages tailored for specific purposes. My skill set includes HTML, CSS, JavaScript, Node.js, Express, MongoDB, React, and Next.js. I have a passion for meeting new people and forging meaningful connections. With extensive experience in collaborative team environments, I thrive in building full-stack applications and enjoy working closely with others to bring projects to life.
 
 <!--
 **seyuan111/seyuan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
